@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.fgtit.access.app-mergeDebugResources-4:/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "152"
+                    }
+                },
+                {
+                    "source": "/home/david-shulesoft/.gradle/caches/transforms-3/818c900edf7f1e68e44f35afbf5d32cc/transformed/appcompat-v7-22.2.1/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "4,11,12,13,19,27,28,29,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "301,818,889,972,1382,2040,2160,2223,2377,2440",
+                        "endLines": "8,11,12,18,24,27,28,31,32,33",
+                        "endColumns": "12,70,82,12,12,119,62,12,62,131",
+                        "endOffsets": "572,884,967,1377,1799,2155,2218,2372,2435,2567"
+                    },
+                    "to": {
+                        "startLines": "5,10,11,12,18,24,25,26,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "157,433,504,587,997,1419,1539,1602,1756,1819",
+                        "endLines": "9,10,11,17,23,24,25,28,29,30",
+                        "endColumns": "12,70,82,12,12,119,62,12,62,131",
+                        "endOffsets": "428,499,582,992,1414,1534,1597,1751,1814,1946"
+                    }
+                }
+            ]
+        }
+    ]
+}

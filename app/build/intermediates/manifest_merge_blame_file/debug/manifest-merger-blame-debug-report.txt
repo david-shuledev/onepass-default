@@ -1,0 +1,260 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.fgtit.access"
+4    android:versionCode="11"
+5    android:versionName="3.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:7:5-67
+11-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:7:22-64
+12    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE" />
+12-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:8:5-9:47
+12-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:8:22-83
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:10:5-81
+13-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:10:22-78
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:11:5-78
+14-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:11:22-76
+15    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+15-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:12:5-79
+15-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:12:22-76
+16    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+16-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:13:5-85
+16-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:13:22-83
+17    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+17-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:14:5-75
+17-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:14:22-73
+18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+18-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:15:5-76
+18-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:15:22-73
+19    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+19-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:16:5-17:47
+19-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:16:22-70
+20    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+20-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:18:5-78
+20-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:18:22-76
+21    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+21-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:19:5-80
+21-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:19:22-78
+22    <uses-permission android:name="android.permission.SEND_SMS" />
+22-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:20:5-67
+22-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:20:22-64
+23    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+23-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:21:5-70
+23-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:21:22-67
+24    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+24-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:22:5-75
+24-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:22:22-72
+25    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+25-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:23:5-24:47
+25-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:23:22-81
+26    <uses-permission android:name="android.permission.CAMERA" />
+26-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:25:5-64
+26-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:25:22-62
+27    <uses-permission android:name="android.permission.VIBRATE" />
+27-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:26:5-66
+27-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:26:22-63
+28    <uses-permission android:name="android.permission.FLASHLIGHT" />
+28-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:27:5-69
+28-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:27:22-66
+29    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+29-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:28:5-71
+29-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:28:22-69
+30    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+30-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:29:5-71
+30-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:29:22-68
+31    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+31-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:30:5-74
+31-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:30:22-71
+32    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+32-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:31:5-74
+32-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:31:22-71
+33    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+33-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:32:5-80
+33-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:32:22-77
+34    <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" />
+34-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:33:5-85
+34-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:33:22-82
+35    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+35-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:34:5-75
+35-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:34:22-72
+36    <uses-permission android:name="android.permission.READ_LOGS" />
+36-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:35:5-36:47
+36-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:35:22-65
+37    <uses-permission android:name="android.permission.WAKE_LOCK" />
+37-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:37:5-68
+37-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:37:22-65
+38    <uses-permission android:name="android.permission.NFC" />
+38-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:38:5-62
+38-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:38:22-59
+39
+40    <uses-feature android:name="android.hardware.camera" />
+40-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:41:5-60
+40-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:41:19-57
+41    <uses-feature android:name="android.hardware.camera.autofocus" />
+41-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:42:5-70
+41-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:42:19-67
+42    <uses-feature
+42-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:43:5-81
+43        android:name="android.hardware.nfc"
+43-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:43:19-54
+44        android:required="true" />
+44-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:43:55-78
+45
+46    <application
+46-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:45:5-124:19
+47        android:allowBackup="true"
+47-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:46:9-35
+48        android:debuggable="true"
+49        android:icon="@drawable/ic_launcher"
+49-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:47:9-45
+50        android:label="@string/app_name"
+50-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:48:9-41
+51        android:testOnly="true"
+52        android:theme="@style/Theme.Onepassaccess" >
+52-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:49:9-51
+53        <activity
+53-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:51:9-59:20
+54            android:name="com.fgtit.access.MainActivity"
+54-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:52:13-57
+55            android:exported="true"
+55-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:54:13-36
+56            android:label="@string/app_name" >
+56-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:53:13-45
+57            <intent-filter>
+57-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:55:13-58:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:56:17-69
+58-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:56:25-66
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:57:17-77
+60-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:57:27-74
+61            </intent-filter>
+62        </activity>
+63        <activity
+63-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:60:9-64:20
+64            android:name="com.fgtit.access.LoginActivity"
+64-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:61:13-58
+65            android:label="@string/title_activity_login"
+65-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:62:13-57
+66            android:screenOrientation="portrait" >
+66-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:63:13-49
+67        </activity>
+68        <activity
+68-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:65:9-69:20
+69            android:name="com.fgtit.access.MenuActivity"
+69-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:66:13-57
+70            android:label="@string/title_activity_menu"
+70-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:67:13-56
+71            android:screenOrientation="portrait" >
+71-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:68:13-49
+72        </activity>
+73        <activity
+73-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:70:9-74:20
+74            android:name="com.fgtit.access.EmployeesActivity"
+74-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:71:13-62
+75            android:label="@string/title_activity_employees"
+75-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:72:13-61
+76            android:screenOrientation="portrait" >
+76-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:73:13-49
+77        </activity>
+78        <activity
+78-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:75:9-79:20
+79            android:name="com.fgtit.access.EmployeeActivity"
+79-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:76:13-61
+80            android:label="@string/title_activity_employee"
+80-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:77:13-60
+81            android:screenOrientation="portrait" >
+81-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:78:13-49
+82        </activity>
+83        <activity
+83-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:80:9-84:20
+84            android:name="com.fgtit.access.CameraExActivity"
+84-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:81:13-61
+85            android:label="@string/title_activity_capturephoto"
+85-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:82:13-64
+86            android:screenOrientation="portrait" >
+86-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:83:13-49
+87        </activity>
+88        <activity
+88-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:85:9-91:20
+89            android:name="android.scanner.CaptureActivity"
+89-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:86:13-59
+90            android:configChanges="orientation|keyboardHidden"
+90-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:87:13-63
+91            android:screenOrientation="portrait"
+91-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:88:13-49
+92            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+92-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:89:13-71
+93            android:windowSoftInputMode="stateAlwaysHidden" >
+93-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:90:13-60
+94        </activity>
+95        <activity
+95-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:92:9-97:20
+96            android:name="com.fgtit.access.EnrollActivity"
+96-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:93:13-59
+97            android:label="@string/title_activity_enroluser"
+97-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:94:13-61
+98            android:screenOrientation="portrait"
+98-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:95:13-49
+99            android:windowSoftInputMode="stateUnchanged" >
+99-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:96:13-57
+100        </activity>
+101        <activity
+101-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:98:9-103:20
+102            android:name="com.fgtit.access.RecordsActivity"
+102-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:99:13-60
+103            android:label="@string/title_activity_records"
+103-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:100:13-59
+104            android:screenOrientation="portrait"
+104-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:101:13-49
+105            android:windowSoftInputMode="stateUnchanged" >
+105-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:102:13-57
+106        </activity>
+107        <activity
+107-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:104:9-108:20
+108            android:name="com.fgtit.access.AboutActivity"
+108-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:105:13-58
+109            android:label="@string/title_activity_about"
+109-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:107:13-57
+110            android:screenOrientation="portrait" >
+110-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:106:13-49
+111        </activity>
+112        <activity
+112-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:109:10-113:20
+113            android:name="com.fgtit.access.UtilitiesActivity"
+113-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:110:13-62
+114            android:label="@string/title_activity_utilities"
+114-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:111:13-61
+115            android:screenOrientation="portrait" >
+115-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:112:13-49
+116        </activity>
+117        <activity
+117-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:114:9-118:20
+118            android:name="com.fgtit.access.SystemActivity"
+118-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:115:13-59
+119            android:label="@string/title_activity_system"
+119-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:116:13-58
+120            android:screenOrientation="portrait" >
+120-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:117:13-49
+121        </activity>
+122        <activity
+122-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:119:9-123:20
+123            android:name="com.fgtit.access.NetworkActivity"
+123-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:120:13-60
+124            android:label="@string/title_activity_network"
+124-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:121:13-59
+125            android:screenOrientation="portrait" >
+125-->/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/AndroidManifest.xml:122:13-49
+126        </activity>
+127    </application>
+128
+129</manifest>

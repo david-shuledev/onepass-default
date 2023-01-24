@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 33
+
+    defaultConfig {
+        applicationId "com.fgtit.access"
+        minSdkVersion 17
+        targetSdkVersion 33
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    namespace 'com.fgtit.access'
+}
+
+dependencies {
+    //noinspection GradleCompatible
+    implementation 'com.android.support:support-v4:22.2.1'
+    //noinspection GradleCompatible
+    implementation 'com.android.support:appcompat-v7:22.2.1'
+    implementation files('libs/android-core-3.1.1-SNAPSHOT.jar')
+    implementation files('libs/core-3.1.1-SNAPSHOT.jar')
+}

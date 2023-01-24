@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.fgtit.access.app-mergeDebugResources-4:/values-w500dp-v13/values-w500dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/david-shulesoft/.gradle/caches/transforms-3/818c900edf7f1e68e44f35afbf5d32cc/transformed/appcompat-v7-22.2.1/res/values-w500dp/values-w500dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "294",
+                        "endColumns": "54",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.fgtit.access.app-mergeDebugResources-4:/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "138"
+                    }
+                },
+                {
+                    "source": "/home/david-shulesoft/.gradle/caches/transforms-3/818c900edf7f1e68e44f35afbf5d32cc/transformed/appcompat-v7-22.2.1/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "4,10,16,22,28,34,42,43,44,49,56,58,60,67,68,69,120",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "301,720,1145,1573,1999,2428,3094,3183,3284,3692,4353,4460,4589,5194,5265,5348,9097",
+                        "endLines": "9,15,21,27,33,39,42,43,48,53,57,59,64,67,68,119,171",
+                        "endColumns": "12,12,12,12,12,12,88,100,12,12,12,12,12,70,82,12,12",
+                        "endOffsets": "715,1140,1568,1994,2423,2848,3178,3279,3687,4107,4455,4584,4948,5260,5343,9092,12981"
+                    },
+                    "to": {
+                        "startLines": "5,11,17,23,29,35,41,42,43,48,53,55,57,62,63,64,115",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "143,562,987,1415,1841,2270,2695,2784,2885,3293,3713,3820,3949,4313,4384,4467,8154",
+                        "endLines": "10,16,22,28,34,40,41,42,47,52,54,56,61,62,63,114,166",
+                        "endColumns": "12,12,12,12,12,12,88,100,12,12,12,12,12,70,82,12,12",
+                        "endOffsets": "557,982,1410,1836,2265,2690,2779,2880,3288,3708,3815,3944,4308,4379,4462,8149,11976"
+                    }
+                }
+            ]
+        }
+    ]
+}

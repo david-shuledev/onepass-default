@@ -1,0 +1,4 @@
+#Tue Jan 24 17:15:11 EAT 2023
+base.0=/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

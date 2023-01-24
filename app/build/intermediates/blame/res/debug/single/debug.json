@@ -1,0 +1,806 @@
+[
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_spinner_ab_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/spinner_ab_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_progress_primary_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/progress_primary_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_demo3.jpg.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/demo3.jpg"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ab_solid_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/ab_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_scan_photo_pressed.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/scan_photo_pressed.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_cab_background_top_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/cab_background_top_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_menu_dropdown_panel_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/menu_dropdown_panel_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/anim_scale_in.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/anim/scale_in.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_progress_secondary_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/progress_secondary_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_ab_transparent_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/ab_transparent_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_cab_done_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/btn_cab_done_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_cab_background_bottom_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/cab_background_bottom_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_spinner_ab_disabled_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/spinner_ab_disabled_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ab_stacked_solid_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/ab_stacked_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_cab_done_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/btn_cab_done_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/raw_dtmfstar.wav.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/raw/dtmfstar.wav"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_progress_primary_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/progress_primary_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_menu_details.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/menu_details.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_tab_selected_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/tab_selected_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/xml_nfc_tech_filter.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/xml/nfc_tech_filter.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/layout_activity_system.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/layout/activity_system.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tab_unselected_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/tab_unselected_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_scan_flashlight_normal.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/scan_flashlight_normal.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_tab_unselected_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/tab_unselected_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_cab_background_top_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/cab_background_top_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_scan_fail.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/scan_fail.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_spinner_background_ab_onepassaccess.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/spinner_background_ab_onepassaccess.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_ab_bottom_solid_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/ab_bottom_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_upload.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/upload.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_list_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/list_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_ab_texture_tile_onepassaccess.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/ab_texture_tile_onepassaccess.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_spinner_ab_disabled_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/spinner_ab_disabled_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/anim_out_to_right.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/anim/out_to_right.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/layout_activity_enroll.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/layout/activity_enroll.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_scan_corner_top_left.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/scan_corner_top_left.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/layout_activity_records.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/layout/activity_records.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_tab_selected_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/tab_selected_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/layout_activity_captureex.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/layout/activity_captureex.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_ab_solid_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/ab_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_scan_corner_top_right.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/scan_corner_top_right.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_tab_unselected_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/tab_unselected_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_scan_flashlight.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/scan_flashlight.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/layout_dialog_enrolfinger.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/layout/dialog_enrolfinger.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_demo2.jpg.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/demo2.jpg"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_scan_photo.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/scan_photo.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_spinner_ab_disabled_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/spinner_ab_disabled_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tab_selected_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/tab_selected_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/anim_progress_indeterminate_animation.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/anim/progress_indeterminate_animation.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/layout_dialog_result.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/layout/dialog_result.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_ab_bottom_solid_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/ab_bottom_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_selectable_background_onepassaccess.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/selectable_background_onepassaccess.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/layout_listview_menuitem.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/layout/listview_menuitem.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_tab_indicator_ab_onepassaccess.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/tab_indicator_ab_onepassaccess.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_spinner_ab_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/spinner_ab_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_spinner_ab_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/spinner_ab_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_ab_transparent_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/ab_transparent_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_menu_dropdown_panel_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/menu_dropdown_panel_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_scan_history_pressed.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/scan_history_pressed.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_tab_unselected_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/tab_unselected_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/layout_dialog_enrolcard.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/layout/dialog_enrolcard.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/menu_records.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/menu/records.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_progress_secondary_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/progress_secondary_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_cab_done_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/btn_cab_done_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_cab_done_default_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/btn_cab_done_default_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_list_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/list_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_tab_selected_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/tab_selected_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_spinner_ab_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/spinner_ab_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/layout_activity_network.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/layout/activity_network.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tab_unselected_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/tab_unselected_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_ab_solid_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/ab_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_cab_background_top_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/cab_background_top_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_menu_dropdown_panel_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/menu_dropdown_panel_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/anim_dialog_main_hide_amination.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/anim/dialog_main_hide_amination.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_tab_selected_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/tab_selected_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_scan_corner_bottom_left.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/scan_corner_bottom_left.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_tab_unselected_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/tab_unselected_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/anim_alphia_in.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/anim/alphia_in.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_cab_background_bottom_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/cab_background_bottom_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_menu_exit.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/menu_exit.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_list_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/list_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_ab_texture_tile_onepassaccess.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/ab_texture_tile_onepassaccess.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ab_bottom_solid_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/ab_bottom_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/raw_beep.ogg.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_btn_cab_done_onepassaccess.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/btn_cab_done_onepassaccess.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_progress_bg_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/progress_bg_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_spinner_ab_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/spinner_ab_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_ab_transparent_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/ab_transparent_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_tab_selected_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/tab_selected_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/layout_activity_logon.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/layout/activity_logon.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/anim_in_from_left.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/anim/in_from_left.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_progress_primary_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/progress_primary_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_ab_stacked_solid_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/ab_stacked_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/layout_activity_about.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_list_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/list_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_tab_selected_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/tab_selected_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_list_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/list_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/anim_dialog_root_show_amin.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/anim/dialog_root_show_amin.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_fingern.jpg.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/fingern.jpg"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_menu_lock.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/menu_lock.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_scan_photo_normal.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/scan_photo_normal.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_list_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/list_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_spinner_ab_disabled_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/spinner_ab_disabled_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_cab_done_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/btn_cab_done_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/anim_snackbar_show_animation.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/anim/snackbar_show_animation.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_ab_stacked_solid_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/ab_stacked_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/menu_utilities.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/menu/utilities.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_tab_unselected_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/tab_unselected_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_spinner_ab_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/spinner_ab_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_cab_done_default_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/btn_cab_done_default_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_progress_horizontal_onepassaccess.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/progress_horizontal_onepassaccess.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tab_selected_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/tab_selected_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_finger.jpg.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/finger.jpg"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/anim_right_in.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/anim/right_in.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_btn_cab_done_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/btn_cab_done_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_tab_unselected_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/tab_unselected_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tab_unselected_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/tab_unselected_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/anim_alpha_out.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/anim/alpha_out.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_download.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/download.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/anim_dialog_root_hide_amin.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/anim/dialog_root_hide_amin.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_cab_background_bottom_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/cab_background_bottom_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/layout_activity_menu.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/layout/activity_menu.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/anim_out_to_left.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/anim/out_to_left.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_cab_done_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/btn_cab_done_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/menu_login.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_rfid.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/rfid.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ab_texture_tile_onepassaccess.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/ab_texture_tile_onepassaccess.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_list_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/list_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/raw_dong.wav.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/raw/dong.wav"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_btn_cab_done_default_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/btn_cab_done_default_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_progress_primary_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/progress_primary_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/anim_in_from_right.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/anim/in_from_right.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_guest.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/guest.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_spinner_ab_default_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/spinner_ab_default_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/anim_lift_out.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/anim/lift_out.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/anim_right_out.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/anim/right_out.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_spinner_ab_default_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/spinner_ab_default_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_list_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/list_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_spinner_ab_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/spinner_ab_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_menu_about.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/menu_about.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/layout_activity_employees.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/layout/activity_employees.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_menu_network.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/menu_network.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_scan_laser.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/scan_laser.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/layout_activity_employee.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/layout/activity_employee.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_generate.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/generate.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/menu_employee.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/menu/employee.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_ab_stacked_solid_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/ab_stacked_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_menu_option.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/menu_option.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_btn_cab_done_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/btn_cab_done_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/layout_activity_utilities.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/layout/activity_utilities.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/raw_stop.wav.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/raw/stop.wav"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_cab_background_bottom_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/cab_background_bottom_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/layout_listview_personitem.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/layout/listview_personitem.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_scan_history_normal.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/scan_history_normal.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_ab_texture_tile_onepassaccess.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/ab_texture_tile_onepassaccess.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_progress_secondary_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/progress_secondary_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_menu_updown.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/menu_updown.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_tab_unselected_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/tab_unselected_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_tab_unselected_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/tab_unselected_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_cab_done_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/btn_cab_done_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_fingerprint.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/fingerprint.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/menu_employees.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/menu/employees.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_spinner_ab_default_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/spinner_ab_default_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_menu_dropdown_panel_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/menu_dropdown_panel_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/anim_scale_out.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/anim/scale_out.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_progress_bg_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/progress_bg_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/raw_start.wav.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/raw/start.wav"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_tab_selected_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/tab_selected_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-hdpi_tab_selected_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-hdpi/tab_selected_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_progress_bg_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/progress_bg_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/menu_enroll.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/menu/enroll.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_spinner_ab_default_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/spinner_ab_default_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_spinner_ab_focused_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/spinner_ab_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_cab_done_default_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/btn_cab_done_default_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/anim_left_in.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/anim/left_in.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_cab_background_top_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/cab_background_top_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/raw_dtmfpound.wav.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/raw/dtmfpound.wav"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/menu_system.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/menu/system.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_scan_flashlight_pressed.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/scan_flashlight_pressed.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_progress_bg_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/progress_bg_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/anim_snackbar_hide_animation.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/anim/snackbar_hide_animation.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_demo1.jpg.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/demo1.jpg"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_ab_background_textured_onepassaccess.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/ab_background_textured_onepassaccess.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/layout_activity_brcapture.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/layout/activity_brcapture.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_tab_unselected_pressed_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/tab_unselected_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_tab_selected_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/tab_selected_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/anim_dialog_main_show_amination.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/anim/dialog_main_show_amination.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_scan_corner_bottom_right.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/scan_corner_bottom_right.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tab_selected_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/tab_selected_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_menu_users.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/menu_users.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable_barcode.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable/barcode.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_ab_bottom_solid_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/ab_bottom_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ab_transparent_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xxhdpi/ab_transparent_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/layout_listview_empitem.xml.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/layout/listview_empitem.xml"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-mdpi_ab_solid_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-mdpi/ab_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi_progress_secondary_onepassaccess.9.png.flat",
+        "source": "/home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res/drawable-xhdpi/progress_secondary_onepassaccess.9.png"
+    }
+]

@@ -1,0 +1,806 @@
+[
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/anim_snackbar_hide_animation.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/anim/snackbar_hide_animation.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/anim_progress_indeterminate_animation.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/anim/progress_indeterminate_animation.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/anim_in_from_left.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/anim/in_from_left.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_spinner_ab_disabled_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/spinner_ab_disabled_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_menu_dropdown_panel_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/menu_dropdown_panel_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_btn_cab_done_default_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/btn_cab_done_default_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_list_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/list_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/anim_out_to_left.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/anim/out_to_left.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/menu_records.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/menu/records.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_progress_secondary_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/progress_secondary_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_scan_corner_bottom_right.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/scan_corner_bottom_right.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/raw_dong.wav.flat",
+        "source": "com.fgtit.access.app-main-8:/raw/dong.wav"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_spinner_ab_default_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/spinner_ab_default_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_ab_bottom_solid_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/ab_bottom_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_btn_cab_done_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/btn_cab_done_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_ab_solid_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/ab_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_list_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/list_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_spinner_ab_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/spinner_ab_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_ab_bottom_solid_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/ab_bottom_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_btn_cab_done_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/btn_cab_done_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_tab_unselected_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/tab_unselected_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_scan_fail.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/scan_fail.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_tab_selected_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/tab_selected_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_progress_primary_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/progress_primary_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/anim_alpha_out.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/anim/alpha_out.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/raw_dtmfpound.wav.flat",
+        "source": "com.fgtit.access.app-main-8:/raw/dtmfpound.wav"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_scan_flashlight_pressed.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/scan_flashlight_pressed.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_progress_bg_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/progress_bg_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_cab_background_bottom_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/cab_background_bottom_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_progress_primary_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/progress_primary_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_tab_selected_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/tab_selected_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/layout_activity_about.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_scan_history_pressed.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/scan_history_pressed.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_tab_unselected_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/tab_unselected_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_menu_details.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/menu_details.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_list_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/list_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_menu_updown.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/menu_updown.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_tab_selected_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/tab_selected_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/menu_system.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/menu/system.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/layout_dialog_enrolfinger.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/layout/dialog_enrolfinger.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_cab_background_bottom_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/cab_background_bottom_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_menu_about.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/menu_about.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_ab_transparent_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/ab_transparent_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_spinner_background_ab_onepassaccess.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/spinner_background_ab_onepassaccess.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_spinner_ab_disabled_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/spinner_ab_disabled_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_ab_stacked_solid_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/ab_stacked_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_selectable_background_onepassaccess.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/selectable_background_onepassaccess.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/anim_alphia_in.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/anim/alphia_in.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_btn_cab_done_onepassaccess.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/btn_cab_done_onepassaccess.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_spinner_ab_disabled_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/spinner_ab_disabled_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_tab_unselected_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/tab_unselected_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/anim_dialog_root_hide_amin.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/anim/dialog_root_hide_amin.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/menu_employees.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/menu/employees.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_tab_selected_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/tab_selected_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/layout_activity_employee.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/layout/activity_employee.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/xml_nfc_tech_filter.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/xml/nfc_tech_filter.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_spinner_ab_disabled_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/spinner_ab_disabled_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/layout_activity_enroll.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/layout/activity_enroll.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_ab_stacked_solid_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/ab_stacked_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/menu_login.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/menu/login.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_scan_corner_top_right.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/scan_corner_top_right.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_progress_secondary_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/progress_secondary_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/menu_employee.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/menu/employee.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_tab_unselected_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/tab_unselected_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_scan_corner_bottom_left.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/scan_corner_bottom_left.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/layout_listview_empitem.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/layout/listview_empitem.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_list_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/list_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_spinner_ab_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/spinner_ab_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_btn_cab_done_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/btn_cab_done_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_btn_cab_done_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/btn_cab_done_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/layout_activity_brcapture.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/layout/activity_brcapture.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_ab_transparent_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/ab_transparent_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_list_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/list_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_generate.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/generate.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/layout_activity_captureex.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/layout/activity_captureex.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/layout_activity_logon.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/layout/activity_logon.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_fingern.jpg.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/fingern.jpg"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/layout_dialog_result.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/layout/dialog_result.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_tab_unselected_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/tab_unselected_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_tab_selected_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/tab_selected_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/anim_out_to_right.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/anim/out_to_right.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_download.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/download.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_tab_unselected_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/tab_unselected_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_progress_horizontal_onepassaccess.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/progress_horizontal_onepassaccess.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_tab_selected_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/tab_selected_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_progress_bg_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/progress_bg_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/menu_main.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/menu/main.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_ab_bottom_solid_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/ab_bottom_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_menu_option.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/menu_option.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_ab_texture_tile_onepassaccess.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/ab_texture_tile_onepassaccess.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_list_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/list_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/raw_start.wav.flat",
+        "source": "com.fgtit.access.app-main-8:/raw/start.wav"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_tab_unselected_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/tab_unselected_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_tab_selected_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/tab_selected_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_demo1.jpg.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/demo1.jpg"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/anim_dialog_root_show_amin.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/anim/dialog_root_show_amin.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/anim_dialog_main_hide_amination.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/anim/dialog_main_hide_amination.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/anim_scale_in.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/anim/scale_in.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_spinner_ab_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/spinner_ab_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/anim_scale_out.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/anim/scale_out.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/raw_stop.wav.flat",
+        "source": "com.fgtit.access.app-main-8:/raw/stop.wav"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_spinner_ab_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/spinner_ab_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_progress_primary_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/progress_primary_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_ab_transparent_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/ab_transparent_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_scan_flashlight_normal.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/scan_flashlight_normal.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_ab_texture_tile_onepassaccess.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/ab_texture_tile_onepassaccess.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_tab_unselected_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/tab_unselected_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_scan_photo_normal.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/scan_photo_normal.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_cab_background_top_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/cab_background_top_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/layout_activity_records.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/layout/activity_records.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/layout_listview_personitem.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/layout/listview_personitem.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_fingerprint.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/fingerprint.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_ab_background_textured_onepassaccess.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/ab_background_textured_onepassaccess.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_progress_bg_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/progress_bg_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/layout_activity_menu.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_spinner_ab_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/spinner_ab_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_menu_network.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/menu_network.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/layout_activity_network.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/layout/activity_network.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_progress_secondary_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/progress_secondary_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_tab_selected_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/tab_selected_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_tab_selected_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/tab_selected_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_scan_photo.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/scan_photo.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_menu_users.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/menu_users.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_menu_dropdown_panel_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/menu_dropdown_panel_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_btn_cab_done_default_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/btn_cab_done_default_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/layout_activity_utilities.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/layout/activity_utilities.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/anim_right_in.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/anim/right_in.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_btn_cab_done_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/btn_cab_done_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_ab_stacked_solid_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/ab_stacked_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/layout_dialog_enrolcard.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/layout/dialog_enrolcard.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_ab_solid_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/ab_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_list_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/list_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_demo2.jpg.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/demo2.jpg"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_menu_exit.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/menu_exit.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_tab_unselected_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/tab_unselected_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_tab_indicator_ab_onepassaccess.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/tab_indicator_ab_onepassaccess.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_rfid.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/rfid.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_spinner_ab_default_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/spinner_ab_default_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_tab_unselected_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/tab_unselected_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_spinner_ab_default_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/spinner_ab_default_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_btn_cab_done_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/btn_cab_done_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_barcode.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/barcode.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_upload.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/upload.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_ab_texture_tile_onepassaccess.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/ab_texture_tile_onepassaccess.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_btn_cab_done_default_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/btn_cab_done_default_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_tab_unselected_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/tab_unselected_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_scan_laser.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/scan_laser.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_spinner_ab_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/spinner_ab_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_demo3.jpg.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/demo3.jpg"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_ab_transparent_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/ab_transparent_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_cab_background_top_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/cab_background_top_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_btn_cab_done_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/btn_cab_done_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/menu_enroll.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/menu/enroll.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/layout_activity_system.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/layout/activity_system.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_spinner_ab_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/spinner_ab_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/anim_dialog_main_show_amination.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/anim/dialog_main_show_amination.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_menu_lock.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/menu_lock.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_list_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/list_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_cab_background_bottom_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/cab_background_bottom_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/raw_dtmfstar.wav.flat",
+        "source": "com.fgtit.access.app-main-8:/raw/dtmfstar.wav"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_spinner_ab_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/spinner_ab_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_finger.jpg.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/finger.jpg"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/layout_activity_main.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/layout_activity_employees.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/layout/activity_employees.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_menu_dropdown_panel_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/menu_dropdown_panel_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_ab_texture_tile_onepassaccess.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/ab_texture_tile_onepassaccess.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_guest.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/guest.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_tab_selected_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/tab_selected_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/anim_lift_out.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/anim/lift_out.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_ab_bottom_solid_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/ab_bottom_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/anim_right_out.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/anim/right_out.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_cab_background_bottom_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/cab_background_bottom_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_btn_cab_done_default_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/btn_cab_done_default_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_tab_selected_focused_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/tab_selected_focused_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_progress_secondary_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/progress_secondary_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_scan_history_normal.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/scan_history_normal.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_scan_corner_top_left.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/scan_corner_top_left.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_ab_stacked_solid_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/ab_stacked_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_ab_solid_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/ab_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_progress_primary_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/progress_primary_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/menu_utilities.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/menu/utilities.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_btn_cab_done_pressed_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/btn_cab_done_pressed_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_scan_photo_pressed.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/scan_photo_pressed.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_tab_unselected_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/tab_unselected_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_spinner_ab_default_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/spinner_ab_default_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_cab_background_top_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/cab_background_top_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable_scan_flashlight.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable/scan_flashlight.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-hdpi_ab_solid_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-hdpi/ab_solid_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/anim_in_from_right.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/anim/in_from_right.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/layout_listview_menuitem.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/layout/listview_menuitem.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_cab_background_top_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/cab_background_top_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/anim_snackbar_show_animation.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/anim/snackbar_show_animation.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/anim_left_in.xml.flat",
+        "source": "com.fgtit.access.app-main-8:/anim/left_in.xml"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/raw_beep.ogg.flat",
+        "source": "com.fgtit.access.app-main-8:/raw/beep.ogg"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xxhdpi_tab_selected_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xxhdpi/tab_selected_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-xhdpi_progress_bg_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-xhdpi/progress_bg_onepassaccess.9.png"
+    },
+    {
+        "merged": "com.fgtit.access.app-merged_res-6:/drawable-mdpi_menu_dropdown_panel_onepassaccess.9.png.flat",
+        "source": "com.fgtit.access.app-main-8:/drawable-mdpi/menu_dropdown_panel_onepassaccess.9.png"
+    }
+]

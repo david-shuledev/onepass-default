@@ -1,0 +1,9 @@
+com.fgtit.access.app-appcompat-v7-22.2.1-0 /home/david-shulesoft/.gradle/caches/transforms-3/818c900edf7f1e68e44f35afbf5d32cc/transformed/appcompat-v7-22.2.1/res
+com.fgtit.access.app-pngs-1 /home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/generated/res/pngs/debug
+com.fgtit.access.app-resValues-2 /home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/generated/res/resValues/debug
+com.fgtit.access.app-rs-3 /home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/generated/res/rs/debug
+com.fgtit.access.app-mergeDebugResources-4 /home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.fgtit.access.app-mergeDebugResources-5 /home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.fgtit.access.app-merged_res-6 /home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/build/intermediates/merged_res/debug
+com.fgtit.access.app-debug-7 /home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/debug/res
+com.fgtit.access.app-main-8 /home/david-shulesoft/Desktop/Work/A5/Android/OnePass-Access-AS/app/src/main/res
