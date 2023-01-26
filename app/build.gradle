@@ -16,6 +16,13 @@ android {
         }
     }
     namespace 'com.fgtit.access'
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ["libs"]
+        }
+    }
+    ndkVersion '25.0.8775105'
 }
 
 dependencies {

@@ -48,6 +48,7 @@
         android:label="@string/app_name"
         android:theme="@style/Theme.Onepassaccess"
         tools:ignore="GoogleAppIndexingWarning">
+
         <activity
             android:name="com.fgtit.access.MainActivity"
             android:label="@string/app_name"

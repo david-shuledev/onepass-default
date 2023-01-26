@@ -190,8 +190,15 @@ public class ActivityList {
 		DefaultUser=sp.getString("DefaultUser","admin");
 		isonline=sp.getBoolean("IsOnline", true);
 
-		DeviceSN=((TelephonyManager) pcontext.getSystemService(Context.TELEPHONY_SERVICE)).getDeviceId();
-		
+//		DeviceSN=((TelephonyManager) pcontext.getSystemService(Context.TELEPHONY_SERVICE)).getDeviceId();
+
+		if(pcontext != null){
+			DeviceSN=Settings.Secure.getString(pcontext.getContentResolver(),Settings.Secure.ANDROID_ID);
+		}else{
+			DeviceSN = "";
+		}
+
+
 		DeviceConfig.getInstance().LoadConfig();
 	}
 
